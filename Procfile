@@ -1,1 +1,1 @@
-web: gunicorn projectname.wsgi
+web: gunicorn mytodo.wsgi --log-file-
